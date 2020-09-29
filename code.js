@@ -38,11 +38,7 @@ const deck1 = new Deck();
 class Eights extends Deck {
     constructor() {
         super();
-        //this.one = Player();
-        //this.two = Player();
-        // this.drawPile = Hand();
-        //this.discardPile = Hand();
-
+        
 
     }
     playGame() {
